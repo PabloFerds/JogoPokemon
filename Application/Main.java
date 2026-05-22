@@ -1,4 +1,5 @@
 package JogoPokemon.Application;
+
 import JogoPokemon.model.Pokemon;
 import JogoPokemon.model.Usuario;
 import JogoPokemon.repository.PokemonRepository;
