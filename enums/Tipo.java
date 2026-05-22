@@ -6,17 +6,20 @@ import java.util.List;
 public enum Tipo {
 
     NORMAL,
-    PLANTA,
-    FOGO,
-    AGUA,
-    ELETRICO,
-    VOADOR,
-    PEDRA,
-    PSIQUICO,
-    FANTASMA,
-    VENENOSO,
-    INSETO,
-    GELO;
+    FIRE,
+    WATER,
+    GRASS,
+    ELECTRIC,
+    ICE,
+    FIGHTING,
+    POISON,
+    GROUND,
+    FLYING,
+    PSYCHIC,
+    BUG,
+    ROCK,
+    GHOST,
+    DRAGON;
 
     private List<Tipo> fraquezas = new ArrayList<>();
     private List<Tipo> vantagens = new ArrayList<>();

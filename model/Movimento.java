@@ -1,5 +1,4 @@
 package JogoPokemon.model;
-
 import JogoPokemon.enums.Tipo;
 
 public class Movimento {
